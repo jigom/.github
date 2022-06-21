@@ -29,11 +29,11 @@ Two logical gums combined to make a better product. Every single gum can play an
 - [GoodNotes share link](https://goodnotes.com/shares/#aHR0cHM6Ly93d3cuaWNsb3VkLmNvbS9zaGFyZS8wMGVUMDVTdzhvTTR0OGVsT2h1YUFXX2lBI1Nsb3Ro)
 - [Figma design drafts](https://www.figma.com/file/AxObOmaOfEpJ95n6sVcUqH)
 
-## Slime 🫠 (public)
+## Slime 🫠 ([public](https://github.com/jigom/slime))
 
 - A button pressed like a slime blob.
 - Inspired by our father.
 
-## Dental 👨‍⚕️ (public)
+## Dental 👨‍⚕️ ([public](https://github.com/jigom/dental))
 
 - A site for our father's dental office.
