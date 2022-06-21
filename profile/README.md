@@ -1,26 +1,22 @@
-Two logical gums combined to make a better product. Every single gum can play any role.
+Two logical gums combined to make a better product. Every single gum can play any role. (CVR / CUI / AUX / ELT)
 
-# Members
+## Members
 
-- [Hohyeon Moon](https://www.hohyeonmoon.com) (Gummygumgum)
-- [Jeongwon Moon](https://lookdeceline.github.io) (Gummygummygum)
+- [Hohyeon Moon](https://www.hohyeonmoon.com) (`Gummygumgum`)
+- [Jeongwon Moon](https://lookdeceline.github.io) (`Gummygummygum`)
 
-
-# Ongoing projects
-
-## Facial (code name: sloth 🦥)
+## Facial 🦥 (private)
 
 - A simple project started to fill remaining slot for side project.
-- Core Value establishment / Convincing UI / Apple-ish UX / Engineer-like technologies.
 
-### Core Value (merit)
+### Core Value
 
-- Simplicity, Retro Vibe, Retrospective
+- Merit - Simplicity, Retro Vibe, Retrospective
 
-### Business (target/model)
+### Business
 
-- World wide - Specifically Korea & United States
-- Renewable - subscription / basically free, but iCloud sync and else is paid (Freemium)
+- Target - World wide (specifically korea & united states)
+- Model - Renewable (freemium, subscription / basically free, but iCloud sync and else is paid)
 
 ### Technologies
 
@@ -32,3 +28,12 @@ Two logical gums combined to make a better product. Every single gum can play an
 
 - [GoodNotes share link](https://goodnotes.com/shares/#aHR0cHM6Ly93d3cuaWNsb3VkLmNvbS9zaGFyZS8wMGVUMDVTdzhvTTR0OGVsT2h1YUFXX2lBI1Nsb3Ro)
 - [Figma design drafts](https://www.figma.com/file/AxObOmaOfEpJ95n6sVcUqH)
+
+## Slime 🫠 (public)
+
+- A button pressed like a slime blob.
+- Inspired by our father.
+
+## Dental 👨‍⚕️ (public)
+
+- A site for our father's dental office.
