@@ -5,7 +5,7 @@ Two logical gums combined to make a better product. Every single gum can play an
 - [Hohyeon Moon](https://www.hohyeonmoon.com) (`Gummygumgum`)
 - [Jeongwon Moon](https://lookdeceline.github.io) (`Gummygummygum`)
 
-## Facial 🦥 (private)
+## Sloth 🦥 (private)
 
 - A simple project started to fill remaining slot for side project.
 
