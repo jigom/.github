@@ -1,15 +1,14 @@
-Two puddings collaborating to make better products. (CVR / CUI / AUX / ELT)
-
 ## Members
 
 - [Hohyeon Moon](https://www.hohyeonmoon.com) (`sleepypudding`)
 - [Celine Moon](https://lookdeceline.github.io) (`sisterpudding`)
 
-## Sloth 🦥 (private)
+## Sloth 🦥
 
 - A productivity app work in progress.
+- This project is private for now.
 
-## Slime 🫠 ([public](https://github.com/jigom/slime))
+## Slime 🫠
 
 - A button pressed like a slime blob.
 - Inspired by our father.
