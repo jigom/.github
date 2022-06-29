@@ -11,4 +11,4 @@
 ## Slime 🫠
 
 - A button pressed like a slime blob.
-- Inspired by our father.
+- Inspired by father.
