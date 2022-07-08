@@ -1,3 +1,5 @@
+"A worm may be slow, but it never stops."
+
 ## Members
 
 - [Hohyeon Moon](https://www.hohyeonmoon.com) (`gummygumgum`)
