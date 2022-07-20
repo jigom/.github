@@ -5,7 +5,7 @@
 - [Hohyeon Moon](https://www.hohyeonmoon.com) (`gummygumgum`)
 - [Celine Moon](https://lookdeceline.github.io) (`gummygummygum`)
 
-## Retro 🦥
+## Retro 😏
 
 - A productivity app work in progress.
 - This project is private for now.
